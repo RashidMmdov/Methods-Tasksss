@@ -1,0 +1,28 @@
+C:\Users\resid\source\repos\CalcTask\CalcTask\bin\Debug\netcoreapp3.1\CalcTask.exe
+C:\Users\resid\source\repos\CalcTask\CalcTask\bin\Debug\netcoreapp3.1\CalcTask.deps.json
+C:\Users\resid\source\repos\CalcTask\CalcTask\bin\Debug\netcoreapp3.1\CalcTask.runtimeconfig.json
+C:\Users\resid\source\repos\CalcTask\CalcTask\bin\Debug\netcoreapp3.1\CalcTask.runtimeconfig.dev.json
+C:\Users\resid\source\repos\CalcTask\CalcTask\bin\Debug\netcoreapp3.1\CalcTask.dll
+C:\Users\resid\source\repos\CalcTask\CalcTask\bin\Debug\netcoreapp3.1\CalcTask.pdb
+C:\Users\resid\source\repos\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.csproj.AssemblyReference.cache
+C:\Users\resid\source\repos\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\source\repos\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.AssemblyInfoInputs.cache
+C:\Users\resid\source\repos\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.AssemblyInfo.cs
+C:\Users\resid\source\repos\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.dll
+C:\Users\resid\source\repos\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.pdb
+C:\Users\resid\source\repos\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.genruntimeconfig.cache
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\bin\Debug\netcoreapp3.1\CalcTask.exe
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\bin\Debug\netcoreapp3.1\CalcTask.deps.json
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\bin\Debug\netcoreapp3.1\CalcTask.runtimeconfig.json
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\bin\Debug\netcoreapp3.1\CalcTask.runtimeconfig.dev.json
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\bin\Debug\netcoreapp3.1\CalcTask.dll
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\bin\Debug\netcoreapp3.1\CalcTask.pdb
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.AssemblyInfoInputs.cache
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.AssemblyInfo.cs
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.dll
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.pdb
+C:\Users\resid\Desktop\Method Tasks\CalcTask\CalcTask\obj\Debug\netcoreapp3.1\CalcTask.genruntimeconfig.cache

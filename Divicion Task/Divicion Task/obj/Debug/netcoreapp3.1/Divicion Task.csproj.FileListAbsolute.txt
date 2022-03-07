@@ -1,0 +1,28 @@
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\bin\Debug\netcoreapp3.1\Divicion Task.exe
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\bin\Debug\netcoreapp3.1\Divicion Task.deps.json
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\bin\Debug\netcoreapp3.1\Divicion Task.runtimeconfig.json
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\bin\Debug\netcoreapp3.1\Divicion Task.runtimeconfig.dev.json
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\bin\Debug\netcoreapp3.1\Divicion Task.dll
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\bin\Debug\netcoreapp3.1\Divicion Task.pdb
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.csproj.AssemblyReference.cache
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.AssemblyInfoInputs.cache
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.AssemblyInfo.cs
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.dll
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.pdb
+C:\Users\resid\source\repos\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.genruntimeconfig.cache
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\bin\Debug\netcoreapp3.1\Divicion Task.exe
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\bin\Debug\netcoreapp3.1\Divicion Task.deps.json
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\bin\Debug\netcoreapp3.1\Divicion Task.runtimeconfig.json
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\bin\Debug\netcoreapp3.1\Divicion Task.runtimeconfig.dev.json
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\bin\Debug\netcoreapp3.1\Divicion Task.dll
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\bin\Debug\netcoreapp3.1\Divicion Task.pdb
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.AssemblyInfoInputs.cache
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.AssemblyInfo.cs
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.dll
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.pdb
+C:\Users\resid\Desktop\Method Tasks\Divicion Task\Divicion Task\obj\Debug\netcoreapp3.1\Divicion Task.genruntimeconfig.cache

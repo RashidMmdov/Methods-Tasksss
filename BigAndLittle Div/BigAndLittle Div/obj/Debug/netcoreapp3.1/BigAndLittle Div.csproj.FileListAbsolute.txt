@@ -1,0 +1,28 @@
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\bin\Debug\netcoreapp3.1\BigAndLittle Div.exe
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\bin\Debug\netcoreapp3.1\BigAndLittle Div.deps.json
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\bin\Debug\netcoreapp3.1\BigAndLittle Div.runtimeconfig.json
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\bin\Debug\netcoreapp3.1\BigAndLittle Div.runtimeconfig.dev.json
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\bin\Debug\netcoreapp3.1\BigAndLittle Div.dll
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\bin\Debug\netcoreapp3.1\BigAndLittle Div.pdb
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.csproj.AssemblyReference.cache
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.AssemblyInfoInputs.cache
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.AssemblyInfo.cs
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.dll
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.pdb
+C:\Users\resid\source\repos\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.genruntimeconfig.cache
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\bin\Debug\netcoreapp3.1\BigAndLittle Div.exe
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\bin\Debug\netcoreapp3.1\BigAndLittle Div.deps.json
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\bin\Debug\netcoreapp3.1\BigAndLittle Div.runtimeconfig.json
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\bin\Debug\netcoreapp3.1\BigAndLittle Div.runtimeconfig.dev.json
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\bin\Debug\netcoreapp3.1\BigAndLittle Div.dll
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\bin\Debug\netcoreapp3.1\BigAndLittle Div.pdb
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.AssemblyInfoInputs.cache
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.AssemblyInfo.cs
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.dll
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.pdb
+C:\Users\resid\Desktop\Method Tasks\BigAndLittle Div\BigAndLittle Div\obj\Debug\netcoreapp3.1\BigAndLittle Div.genruntimeconfig.cache
